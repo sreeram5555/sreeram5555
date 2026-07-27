@@ -11,7 +11,7 @@
 
 ## 🌐 Connect with Me
 
-- 🌍 Portfolio: https://portfolio-ceg9.vercel.app
+
 - 💼 LinkedIn: https://www.linkedin.com/in/jayavaram-sreeram-781417329/
 - 💻 GitHub: https://github.com/sreeram5555
 - ⚔️ Codeforces: https://codeforces.com/profile/YOUR_HANDLE
