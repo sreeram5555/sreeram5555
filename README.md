@@ -83,7 +83,7 @@ AI-powered Digital Wellbeing Platform with analytics and Chrome Extension.
 
 - 🥇 Finalist — iQOO Hackathon (300+ Teams)
 - ⭐ 1800+ LeetCode Rating
-- ⭐ 1300+ Codeforces Rating
+- ⭐ 1500+ Codeforces Rating
 - ⭐ CodeChef 3★
 - 💯 Solved 1300+ DSA Problems
 
