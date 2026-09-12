@@ -13,9 +13,9 @@
 - 💼 LinkedIn: [https://www.linkedin.com/in/jayavaram-sreeram-781417329/](https://www.linkedin.com/in/jayavaram-sreeram-781417329/)
 - 💻 GitHub: [https://github.com/sreeram5555](https://github.com/sreeram5555)
 - 📧 Email: - [sreeramjayavaram3@gmail.com](mailto:sreeramjayavaram3@gmail.com)
-- ⚔️ Codeforces: [[https://codeforces.com/profile/YOUR_HANDLE](https://codeforces.com/profile/sreeram5555)]
-- 🟤 CodeChef: [https://www.codechef.com/users/YOUR_HANDLE](https://www.codechef.com/users/YOUR_HANDLE)
-- 🟡 LeetCode: [https://leetcode.com/u/YOUR_HANDLE/](https://leetcode.com/u/YOUR_HANDLE/)
+- ⚔️ Codeforces: [https://codeforces.com/profile/sreeram5555](https://codeforces.com/profile/sreeram5555)
+- 🟤 CodeChef: [https://www.codechef.com/users/broad_anderson](https://www.codechef.com/users/broad_anderson)
+- 🟡 LeetCode: [https://leetcode.com/u/djSDfMfMA9/](https://leetcode.com/u/djSDfMfMA9/)
 ---
 
 ## 🎓 Education
