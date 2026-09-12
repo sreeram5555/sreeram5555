@@ -10,7 +10,7 @@
 ---
 ## 🌐 Connect with Me
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/jayavaram-sreeram-781417329/](https://www.linkedin.com/in/jayavaram-sreeram-781417329/)
+- 💼 LinkedIn: [https://www.linkedin.com/in/jayavaram-sreeram-49628a323/](https://www.linkedin.com/in/jayavaram-sreeram-49628a323/)
 - 💻 GitHub: [https://github.com/sreeram5555](https://github.com/sreeram5555)
 - 📧 Email: - [sreeramjayavaram3@gmail.com](mailto:sreeramjayavaram3@gmail.com)
 - ⚔️ Codeforces: [https://codeforces.com/profile/sreeram5555](https://codeforces.com/profile/sreeram5555)
